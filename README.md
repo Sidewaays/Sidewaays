@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou o SEU-NOME 👋</h1>
-<h3 align="center">Web Developer focado em JavaScript, React & Node.js</h3>
+<h3 align="center">Web Developer | Frontend, Backend & Bases de Dados</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/SEU-LINKEDIN">
@@ -17,21 +17,23 @@
 
 ## 🧑‍💻 Sobre mim
 
-Escreve aqui 3-4 linhas diretas: o que fazes, em que te estás a focar agora, e o que procuras (emprego, freelance, colaborações). Evita clichês tipo "apaixonado por tecnologia" — sê específico.
+Escreve aqui 3-4 linhas diretas: o que fazes, em que te estás a focar agora, e o que procuras (emprego, estágio, freelance, colaborações). Evita clichês tipo "apaixonado por tecnologia" — sê específico.
 
 Exemplo:
-> Construo aplicações web full-stack com React e Node.js. Atualmente a explorar Next.js 15 e arquiteturas serverless. Aberto a oportunidades remotas.
+> Estudante/developer com experiência em desenvolvimento full-stack, desde interfaces web em Angular até back-end em ASP.NET Core. Também com base sólida em sistemas de baixo nível (Assembly AVR, C) e redes (Cisco). Aberto a oportunidades de estágio/emprego.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Frontend | Backend | Base de Dados | Ferramentas |
-|---|---|---|---|
-| ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-| ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | | | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
+| Frontend | Backend | Bases de Dados | Linguagens & Outras | Ferramentas |
+|---|---|---|---|---|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) | | ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) | ![Assembly AVR](https://img.shields.io/badge/Assembly-AVR-654FF0?style=flat) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) | | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) | ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white) |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) | | | ![Common Lisp](https://img.shields.io/badge/Common_Lisp-3FB68B?style=flat&logo=commonlisp&logoColor=white) | |
+| | | | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) | |
 
 ---
 
@@ -42,6 +44,8 @@ Descreve em 2-3 linhas o que faz, que problema resolve, e o que foi tecnicamente
 
 ### [Nome do Projeto 2](https://github.com/Sidewaays/projeto-2)
 Mesma lógica. Escolhe 2-4 projetos, não a lista toda.
+
+> ⚠️ Ainda faltam os projetos da tua conta da instituição — quando os tiveres transferido/adicionados aqui ao GitHub, troca estas duas entradas (ou acrescenta mais) pelos reais.
 
 ---
 
@@ -66,4 +70,4 @@ Mesma lógica. Escolhe 2-4 projetos, não a lista toda.
 
 ---
 
-<p align="center"><i>Aberto a conversas sobre projetos web / oportunidades. Manda mensagem!</i></p>
+<p align="center"><i>Aberto a conversas sobre projetos / oportunidades. Manda mensagem!</i></p>
