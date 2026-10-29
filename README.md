@@ -50,3 +50,8 @@ Procuro **estágio curricular de fevereiro a julho de 2027**, em Lisboa, Setúba
 Projeto de grupo da micro-credencial de Análise de Dados (IPS). Desenhei o dashboard de 4 páginas, escrevi as medidas DAX e respondi às perguntas de análise. Validei os números contra os dados e documentei as limitações do dataset, por exemplo as contagens por género que deixam de fazer sentido depois de remover duplicados.
 
 `Power BI` · `DAX` · `Power Query`
+
+### [À Sombra dos Gigantes](https://github.com/Sidewaays/sombra-dos-gigantes)
+Puzzle-platformer 2D feito em Unity por um grupo de 3 (Desenvolvimento de Videojogos, IPS). Programei os sistemas globais (gravação em JSON com autosave, menus, opções com reconfiguração de teclas, HUD e pausa) e fiz o level design do Nível 1. São cerca de 3 000 linhas de C#.
+
+`Unity` · `C#`
