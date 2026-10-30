@@ -46,6 +46,11 @@ Procuro **estágio curricular de fevereiro a julho de 2027**, em Lisboa, Setúba
 
 ## Projetos
 
+### [EduCoP · Plataforma escolar (estudo de caso)](https://github.com/Sidewaays/educop-case-study)
+Projeto de grupo de 4 pessoas no 3.º ano (IPS): uma plataforma web para gerir turmas, disciplinas e exames. Fiz o frontend da área do professor em Angular (dashboard, gestão de turmas, layout e interceptor JWT) e escrevi os 49 testes do backend em xUnit, incluindo testes de performance, carga e stress. O código é privado; o estudo de caso descreve a minha parte.
+
+`Angular` · `TypeScript` · `ASP.NET Core` · `xUnit`
+
 ### [Spotify Tracks · Dashboard em Power BI](https://github.com/Sidewaays/spotify-dashboard-powerbi)
 Projeto de grupo da micro-credencial de Análise de Dados (IPS). Desenhei o dashboard de 4 páginas, escrevi as medidas DAX e respondi às perguntas de análise. Validei os números contra os dados e documentei as limitações do dataset, por exemplo as contagens por género que deixam de fazer sentido depois de remover duplicados.
 
