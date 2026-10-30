@@ -51,6 +51,11 @@ Projeto de grupo de 4 pessoas no 3.º ano (IPS): uma plataforma web para gerir t
 
 `Angular` · `TypeScript` · `ASP.NET Core` · `xUnit`
 
+### [Rede de Transportes · Grafos e padrões de desenho](https://github.com/Sidewaays/rede-transportes-java)
+Projeto de grupo de Programação Avançada (IPS): uma aplicação JavaFX que representa uma rede de transportes como um grafo e calcula o caminho mais curto por distância, duração ou sustentabilidade. Escrevi cerca de 80% do código atual, incluindo o mapa interativo, o controlador, as estratégias de caminho mais curto e o *undo* com Command e Memento.
+
+`Java` · `JavaFX` · `Maven` · `JUnit`
+
 ### [Spotify Tracks · Dashboard em Power BI](https://github.com/Sidewaays/spotify-dashboard-powerbi)
 Projeto de grupo da micro-credencial de Análise de Dados (IPS). Desenhei o dashboard de 4 páginas, escrevi as medidas DAX e respondi às perguntas de análise. Validei os números contra os dados e documentei as limitações do dataset, por exemplo as contagens por género que deixam de fazer sentido depois de remover duplicados.
 
